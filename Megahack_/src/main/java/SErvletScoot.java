@@ -54,7 +54,7 @@ public class SErvletScoot extends HttpServlet {
 		request.setAttribute("Type", Type);
 		Client cl = new Client(null,Fullname,Username,Email,Phone,Password,Address,Gender,Type);
 		
-		
+			//Hello	
 
 
 
