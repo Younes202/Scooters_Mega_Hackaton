@@ -16,7 +16,7 @@
 Click the image above to watch the award ceremony video.
 
 ## Award image Video
-[Award Image](assets/Awardd.jpg)
+![Award Image](assets/Awardd.jpg)
 
 ## Objectives
 - **Promote Sustainable Transportation:** "Trotti Life" aims to contribute to the development of sustainable urban transportation solutions.
