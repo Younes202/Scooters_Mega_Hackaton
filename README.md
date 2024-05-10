@@ -11,7 +11,7 @@
 - **Recognition and Award:** Despite the setback, the team was immensely proud to have made it to the final selection alongside 40 other exceptional teams. The school recognized the team's dedication and awarded them the first prize for innovation, acknowledging their teamwork, creativity, and problem-solving abilities.
 
 ## Award Ceremony Video
-[![Award Ceremony Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Award Ceremony Video](assets/Trotti_Life)
 
 Click the image above to watch the award ceremony video.
 
