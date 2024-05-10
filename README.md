@@ -1,4 +1,4 @@
-# Trotti Life Project
+# 🛴 Trotti Life Project
 
 ## Overview
 "Trotti Life" is an innovative project centered around the concept of electric scooter rentals, aimed at addressing urban mobility challenges and promoting environmental sustainability. The project envisions an accessible and eco-friendly system that allows individuals to conveniently rent electric scooters, contributing to the development of sustainable urban transportation solutions.
@@ -11,7 +11,7 @@
 - **Recognition and Award:** Despite the setback, the team was immensely proud to have made it to the final selection alongside 40 other exceptional teams. The school recognized the team's dedication and awarded them the first prize for innovation, acknowledging their teamwork, creativity, and problem-solving abilities.
 
 ## Award Ceremony Video
-[![Award Ceremony Video](assets/vedio)
+[![Award Ceremony Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
 
 Click the image above to watch the award ceremony video.
 
@@ -26,6 +26,5 @@ While "Trotti Life" did not secure funding during the competition, the team rema
 ## Contact Information
 For inquiries or collaborations, please contact:
 
-[Team Name]
-[Email Address]
-[Phone Number]
+[Trotti Life]
+[murichesys@gmail.com]
